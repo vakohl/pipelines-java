@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Microsoft-vakohl/CA-AS-Policy/_apis/build/status/vakohl.pipelines-java?branchName=master)](https://dev.azure.com/Microsoft-vakohl/CA-AS-Policy/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
